@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🐄 I'm a CS student @ University of Texas at Austin
-- 📚 I'm learning Database, Distributed Systems, and Compilers
+- 📚 I'm learning system programming (currently Embedded OS with Raspberry PI)
 - 👷🏼‍♂️ Before CS, I did signal processing for oil and gas exploration 🛢️
 <!--
 **tharittk/tharittk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
