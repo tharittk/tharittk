@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🐄 I'm a CS student @ University of Texas at Austin
-- 📚 I find cool labs from other U.S schools and do it (just like going to the gym).
+- 📚 I find cool labs from CS schools and have fun with them
 <!--
 **tharittk/tharittk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
