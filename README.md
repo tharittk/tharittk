@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🐄 I'm a CS student @ University of Texas at Austin
-- 📚 Lots of my repo are labs from interesting CS courses I leisurely learned online
+- 📚 Most of my repo are labs from interesting CS courses I found online
 <!--
 **tharittk/tharittk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
